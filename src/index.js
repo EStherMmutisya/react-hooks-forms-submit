@@ -4,5 +4,7 @@ import Form from './components/Form'
 
 ReactDOM.render(
   <Form />,
-  document.getElementById('root')
+  document.getElementById('root'),
+  document.getElementById('form')
 );
+
